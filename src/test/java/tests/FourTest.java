@@ -15,7 +15,7 @@ public class FourTest extends Base{
 		
 		
 		
-		System.out.println("kiran has made some changes in his machine ");
+		System.out.println("krish has made some changes in his machine ");
 		System.out.println("inside four test");
 		 driver= initilizationDriver();
 		driver.get("https://www.amazon.in/");
